@@ -1,7 +1,6 @@
 # To-do List
 Goal: Object-Oriented Programming
 
-**How to Run**
 Compile: g++ -std=c++11 todo.cpp -o todo
 Run: ./todo
 
